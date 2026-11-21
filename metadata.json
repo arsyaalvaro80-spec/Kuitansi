@@ -1,0 +1,8 @@
+{
+  "name": "Remix NetBill ISP lalu",
+  "description": "Aplikasi offline-first manajemen tagihan internet RT/RW Net \u0026 ISP lokal dengan database Room, cetak thermal Bluetooth, dan kuitansi WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NetBill ISP</string>
+    <string name="nav_tagihan">Tagihan</string>
+    <string name="nav_pelanggan">Pelanggan</string>
+    <string name="nav_paket">Paket Mbps</string>
+    <string name="nav_kuitansi">Pembukuan</string>
+    <string name="nav_setting">Setting</string>
+    <string name="notif_channel_name">Pengingat Tagihan Jatuh Tempo</string>
+    <string name="notif_channel_desc">Notifikasi pengingat pelanggan mendekati jatuh tempo, jatuh tempo hari ini, dan menunggak.</string>
+</resources>
